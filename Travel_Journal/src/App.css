@@ -4,6 +4,7 @@ html, body {
 
 body {
   font-family: Inter;
+  box-sizing: border-box;
 }
 
 .container {
